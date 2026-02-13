@@ -1,0 +1,6 @@
+[package]
+name = "my-rust-samples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
